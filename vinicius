@@ -1,0 +1,50 @@
+<html>
+ <head>
+ <!-- nao vai ser renderizado,nao vai ser exposto no corpo do site-->
+ <!--(ctrl k+ ctrl c)  cria nota-->
+ <title>aula 2</title>
+
+
+
+
+</head>
+ <body> 
+<!-- vai ser renderizado dentro do corpo do site -->
+
+<h1>ti tulo </h1>
+<h1>h2</h1>
+<h1>h3</h1>
+<h1>h4</h1>
+<h1>h5</h1>
+<h1>h6</h1>
+<h9>analise</h9>
+<label>texto</label>
+<label>texto</label>
+<label>texto</label>
+<input type="button>" value="button">
+<input type="number>">
+<input type="color">
+<input type="image"">
+<input type="radio"">
+<input type="date">
+<h1></h1>
+<input type="number">
+<input type="checkbox"><label></label>
+
+ </body>
+
+ 
+ 
+ </html>
+ 
+
+
+
+
+
+
+
+
+
+
+ </html>
